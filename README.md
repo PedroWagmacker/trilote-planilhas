@@ -105,6 +105,6 @@ Na planilha temos algumas colunas em que os preenchimentos são obrigatórios pa
 
 Ao passar o cursor do mouse 🖱️ em cada coluna, uma descrição será exibida com as instruções de preenchimento.
 
-> ⚠️ Na ausência do campo `contrato_numero`, informe ao suporte para que a identificação do contrato seja feita através da combinação de `empreendimento_descricao`, `unidade_quadra` e `unidade_numero`. Caso a parcela esteja com situação *LIQUIDADA*, os campos `parcela_valor_encargos`, `parcela_data_pagamento` e `parcela_conta_liquidacao` também se tornam *obrigatórios*.
+> ⚠️ Caso a parcela esteja com situação *LIQUIDADA*, os campos `parcela_valor_encargos`, `parcela_data_pagamento` e `parcela_conta_liquidacao` também se tornam *obrigatórios*.
 
 🔗 [Acessar planilha de importação de parcelas](Planilhas_importação)

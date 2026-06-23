@@ -36,8 +36,8 @@ Uma breve instrução para realizar o preenchimento:
 Na planilha temos algumas colunas em que os preenchimentos são obrigatórios para que a importação seja realizada. Sendo elas:
 
 - cliente_cpfcnpj;
-- cliente_telefone_tipo;
-- cliente_telefone_numero;
+- cliente_telefone_tipo_1;
+- cliente_telefone_numero_1;
 - cliente_endereco_cep;
 - cliente_endereco_logradouro;
 - cliente_endereco_numero;

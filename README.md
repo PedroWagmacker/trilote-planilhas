@@ -108,3 +108,25 @@ Ao passar o cursor do mouse 🖱️ em cada coluna, uma descrição será exibid
 > ⚠️ Caso a parcela esteja com situação *LIQUIDADA*, os campos `parcela_valor_encargos`, `parcela_data_pagamento` e `parcela_conta_liquidacao` também se tornam *obrigatórios*.
 
 🔗 [Acessar planilha de importação de parcelas](Planilhas_importação)
+
+---
+
+## 🏭 Fornecedores
+
+*Planilha de importação de fornecedores.*
+
+Uma breve instrução para realizar o preenchimento:
+
+Na planilha temos algumas colunas em que os preenchimentos são obrigatórios para que a importação seja realizada. Sendo elas:
+
+- fornecedor_cpfcnpj;
+- fornecedor_nome_razao_social;
+
+Ao passar o cursor do mouse 🖱️ em cada coluna, uma descrição será exibida com as instruções de preenchimento.
+
+> ⚠️ Caso o fornecedor seja uma *pessoa jurídica*, o preenchimento do campo `fornecedor_nome_fantasia` também se torna obrigatório.
+
+🔗 [Acessar planilha de importação de fornecedores](Planilhas_importação)
+
+---
+
